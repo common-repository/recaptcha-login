@@ -1,0 +1,6 @@
+#recaptcha_logo, #recaptcha_tagline{display: none;}
+.recaptchatable td{background: none!important}
+table#recaptcha_table{background: #fff; display:block;border: 2px solid #fff!important;}
+#recaptcha_area, #recaptcha_table{max-width: 235px!important}
+.recaptcha_image_cell #recaptcha_image,#recaptcha_image>img{border:0!important;max-width: 175px!important}
+#recaptcha_response_field{border:1px solid #999!important;max-width: 175px!important}
